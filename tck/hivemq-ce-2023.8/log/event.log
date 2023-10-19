@@ -1,0 +1,272 @@
+2023-10-18 11:10:43,973 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:13:19,554 - Client ID: tck-web-console-fe9d3368-9808-45e1-a7fa-3fa462796cd2, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:13:54,966 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:15:19,288 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:18:14,204 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:18:25,557 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:19:22,387 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:20:20,790 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:21:10,785 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:21:19,386 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Another client connected with the same client id..
+2023-10-18 11:21:19,399 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:22:15,350 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Another client connected with the same client id..
+2023-10-18 11:22:15,362 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:23:17,086 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:23:26,019 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:23:37,288 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Another client connected with the same client id..
+2023-10-18 11:23:37,299 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:40:33,784 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:44:26,935 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 11:45:20,305 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:45:31,306 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:45:38,189 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Another client connected with the same client id..
+2023-10-18 11:45:38,198 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:46:08,192 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Another client connected with the same client id..
+2023-10-18 11:46:08,202 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:46:13,594 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:46:17,407 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 11:46:21,564 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:47:13,425 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:48:37,219 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:48:43,971 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:49:17,446 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:49:18,796 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:50:06,745 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 11:50:08,068 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:57:07,287 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 11:58:00,541 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 11:58:45,685 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Client was idle for too long.
+2023-10-18 12:03:02,832 - Client ID: testclient session has expired at 2023-10-18 09:58:45. All persistent data for this client has been removed.
+2023-10-18 13:33:38,536 - Client ID: id, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:33:38,911 - Client ID: id, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 13:33:57,513 - Client ID: id, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:35:22,998 - Client ID: id, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 13:38:35,284 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:38:36,337 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:38:48,275 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:39:41,038 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:39:43,199 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:39:47,271 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:40:56,349 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:41:06,927 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:41:09,012 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:41:13,648 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:41:16,471 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:41:27,171 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:41:28,583 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:42:11,924 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:43:02,093 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:43:05,231 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:43:06,291 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:43:10,246 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:43:12,253 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:43:45,333 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:44:06,559 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:44:08,888 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:44:10,825 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:44:17,751 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:44:19,899 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:44:21,484 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:44:23,450 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:44:26,740 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:44:58,716 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:45:05,106 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:45:06,084 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:45:07,869 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:45:27,450 - Client ID: id session has expired at 2023-10-18 11:35:22. All persistent data for this client has been removed.
+2023-10-18 13:45:27,451 - Client ID: testclient session has expired at 2023-10-18 11:44:58. All persistent data for this client has been removed.
+2023-10-18 13:46:05,290 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:46:35,704 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:46:39,463 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:55:35,485 - Client ID: Sparkplug_TCK_testhost session has expired at 2023-10-18 11:46:39. All persistent data for this client has been removed.
+2023-10-18 13:57:42,010 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:57:43,239 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:57:44,835 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:58:41,297 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 13:59:09,977 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 13:59:13,124 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:02:31,510 - Client ID: testclient session has expired at 2023-10-18 11:59:09. All persistent data for this client has been removed.
+2023-10-18 14:12:03,725 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:12:46,143 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:15:28,665 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:15:30,853 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:16:24,754 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:18:18,079 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:18:20,015 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:18:20,016 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:18:20,017 - Client ID: tck-web-console-fe9d3368-9808-45e1-a7fa-3fa462796cd2, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 14:18:28,156 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:18:28,397 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:18:31,032 - Client ID: tck-web-console-fe9d3368-9808-45e1-a7fa-3fa462796cd2, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:18:35,654 - Client ID: tck-web-console-fe9d3368-9808-45e1-a7fa-3fa462796cd2, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 14:18:39,852 - Client ID: tck-web-console-cf3ba48d-42bf-459a-9faf-4ad54ebbe7a1, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:18:58,841 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:19:34,981 - Client ID: testclient session has expired at 2023-10-18 12:18:18. All persistent data for this client has been removed.
+2023-10-18 14:20:00,831 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:20:06,452 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:25:54,305 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:25:55,539 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:25:55,539 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:25:55,540 - Client ID: tck-web-console-cf3ba48d-42bf-459a-9faf-4ad54ebbe7a1, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 14:26:05,660 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:26:06,671 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:26:11,132 - Client ID: tck-web-console-917a6d88-510c-4ff3-a2f1-2b4364127fe0, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:26:35,662 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:27:13,262 - Client ID: testclient session has expired at 2023-10-18 12:25:54. All persistent data for this client has been removed.
+2023-10-18 14:27:24,641 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:27:34,342 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:28:15,026 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:28:17,555 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:29:02,701 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Client was idle for too long.
+2023-10-18 14:29:45,732 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:30:40,409 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:30:44,383 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:31:23,892 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:31:26,488 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:32:11,633 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Client was idle for too long.
+2023-10-18 14:36:08,724 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:36:33,365 - Client ID: tck-web-console-fe9d3368-9808-45e1-a7fa-3fa462796cd2 session has expired at 2023-10-18 12:18:35. All persistent data for this client has been removed.
+2023-10-18 14:37:05,374 - Client ID: tck-web-console-cf3ba48d-42bf-459a-9faf-4ad54ebbe7a1 session has expired at 2023-10-18 12:25:55. All persistent data for this client has been removed.
+2023-10-18 14:37:21,383 - Client ID: Sparkplug_TCK_testhost session has expired at 2023-10-18 12:30:44. All persistent data for this client has been removed.
+2023-10-18 14:37:29,856 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:37:41,894 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:37:47,407 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:37:51,900 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:37:56,830 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:38:00,397 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:38:57,646 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:39:16,326 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:40:36,208 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:40:38,155 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:40:40,472 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:40:42,891 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:41:01,291 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:41:03,447 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:41:53,540 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Client was idle for too long.
+2023-10-18 14:42:14,159 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:42:16,265 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:44:17,419 - Client ID: testclient session has expired at 2023-10-18 12:42:16. All persistent data for this client has been removed.
+2023-10-18 14:45:37,580 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:46:49,891 - Client ID: testclient, IP: 127.0.0.1 was disconnected. reason: Client was idle for too long.
+2023-10-18 14:47:17,216 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:47:17,331 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:47:27,490 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:48:23,347 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:48:26,482 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:53:10,382 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:53:50,649 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:53:53,324 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 14:54:25,454 - Client ID: Sparkplug_TCK_testhost session has expired at 2023-10-18 12:48:26. All persistent data for this client has been removed.
+2023-10-18 14:54:46,289 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:55:41,738 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 14:55:48,380 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 14:58:28,731 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:00:19,118 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:00:21,399 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 15:01:21,481 - Client ID: testclient session has expired at 2023-10-18 13:00:21. All persistent data for this client has been removed.
+2023-10-18 15:05:07,256 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:05:52,540 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:05:55,310 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:07:12,533 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:08:14,164 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:09:00,157 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:09:03,788 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:10:38,278 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:10:52,271 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:11:29,517 - Client ID: Sparkplug_TCK_testhost session has expired at 2023-10-18 13:10:52. All persistent data for this client has been removed.
+2023-10-18 15:12:17,783 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:15:11,783 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:15:59,383 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:17:18,530 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:17:39,674 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:30:56,527 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:31:14,882 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 15:31:24,586 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:31:30,834 - Client ID: tck-web-console-9edb9567-f8d0-48c3-a4ea-6e0ff65b212c, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:31:36,101 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:31:55,917 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:31:57,531 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:34:39,883 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:35:33,996 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:39:16,095 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:39:18,040 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 15:39:18,041 - Client ID: tck-web-console-9edb9567-f8d0-48c3-a4ea-6e0ff65b212c, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 15:39:32,253 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:39:32,398 - Client ID: tck-web-console-9edb9567-f8d0-48c3-a4ea-6e0ff65b212c, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:39:33,130 - Client ID: tck-web-console-9edb9567-f8d0-48c3-a4ea-6e0ff65b212c, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 15:39:36,869 - Client ID: tck-web-console-9245d9aa-e42a-4728-891a-fb3ba67f6037, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:40:38,767 - Client ID: testclient session has expired at 2023-10-18 13:39:16. All persistent data for this client has been removed.
+2023-10-18 15:40:59,089 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:41:33,935 - Client ID: tck-web-console-9245d9aa-e42a-4728-891a-fb3ba67f6037, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 15:41:38,186 - Client ID: tck-web-console-06224f66-3589-4630-bc11-721dd4084154, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:42:12,991 - Client ID: tck-web-console-06224f66-3589-4630-bc11-721dd4084154, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 15:42:19,024 - Client ID: tck-web-console-40476309-afab-4215-a01e-8365e6790b27, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:42:36,198 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:42:37,925 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:44:07,992 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 15:44:07,992 - Client ID: testclient, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 15:44:07,992 - Client ID: tck-web-console-40476309-afab-4215-a01e-8365e6790b27, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 15:44:20,738 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:44:33,786 - Client ID: tck-web-console-5a885c68-ac13-4ba2-afb8-081c27f3f5b9, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:45:27,216 - Client ID: testclient session has expired at 2023-10-18 13:44:07. All persistent data for this client has been removed.
+2023-10-18 15:45:35,495 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:49:59,248 - Client ID: tck-web-console-40476309-afab-4215-a01e-8365e6790b27 session has expired at 2023-10-18 13:44:07. All persistent data for this client has been removed.
+2023-10-18 15:52:39,929 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:52:55,270 - Client ID: tck-web-console-9245d9aa-e42a-4728-891a-fb3ba67f6037 session has expired at 2023-10-18 13:41:33. All persistent data for this client has been removed.
+2023-10-18 15:53:33,424 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:54:05,659 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:54:47,286 - Client ID: tck-web-console-06224f66-3589-4630-bc11-721dd4084154 session has expired at 2023-10-18 13:42:12. All persistent data for this client has been removed.
+2023-10-18 15:56:00,896 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:56:16,489 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:56:17,922 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:56:26,786 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 15:56:28,287 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 15:59:31,354 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 16:01:11,314 - Client ID: tck-web-console-9edb9567-f8d0-48c3-a4ea-6e0ff65b212c session has expired at 2023-10-18 13:39:33. All persistent data for this client has been removed.
+2023-10-18 16:02:31,320 - Client ID: testclient session has expired at 2023-10-18 13:59:31. All persistent data for this client has been removed.
+2023-10-18 16:14:33,908 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 16:16:28,143 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 16:17:21,020 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 16:17:52,098 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 16:19:35,384 - Client ID: testclient session has expired at 2023-10-18 14:17:52. All persistent data for this client has been removed.
+2023-10-18 16:29:03,334 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 16:29:05,344 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 16:36:39,448 - Client ID: testclient session has expired at 2023-10-18 14:29:05. All persistent data for this client has been removed.
+2023-10-18 17:54:33,334 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 17:55:50,252 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 17:55:51,272 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
+2023-10-18 17:55:51,274 - Client ID: tck-web-console-5a885c68-ac13-4ba2-afb8-081c27f3f5b9, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 17:56:00,379 - Client ID: Sparkplug TCK Results Collector, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 17:56:09,571 - Client ID: tck-web-console-0148f661-383d-4394-b57b-ee39c95dae2e, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 17:57:06,863 - Client ID: testclient session has expired at 2023-10-18 15:55:50. All persistent data for this client has been removed.
+2023-10-18 17:57:21,524 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 17:57:22,871 - Client ID: tck-web-console-5a885c68-ac13-4ba2-afb8-081c27f3f5b9 session has expired at 2023-10-18 15:55:51. All persistent data for this client has been removed.
+2023-10-18 18:00:43,671 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 18:01:03,527 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 18:01:38,564 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:24:40,067 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:25:53,334 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:26:01,495 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:26:03,096 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:26:28,915 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:26:30,935 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:26:31,244 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:26:45,306 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:26:45,615 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:26:48,637 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:29:47,896 - Client ID: tck-web-console-2d85a8d4-090a-46b4-bd21-abffce7ba4d6, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:30:17,974 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:31:38,127 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:31:46,560 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:31:48,075 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:31:49,501 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:31:56,956 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:32:03,495 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:32:05,594 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:32:07,074 - Client ID: testclient, IP: 127.0.0.1, Clean Start: true, Session Expiry: 0 connected.
+2023-10-18 19:32:09,996 - Client ID: Sparkplug_TCK_testhost, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:32:35,879 - Client ID: Sparkplug_TCK_testhost session has expired at 2023-10-18 17:32:09. All persistent data for this client has been removed.
+2023-10-18 19:32:43,663 - Client ID: testclient, IP: 127.0.0.1 disconnected gracefully.
+2023-10-18 19:32:48,407 - Client ID: tck-web-console-0148f661-383d-4394-b57b-ee39c95dae2e, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 19:32:49,106 - Client ID: tck-web-console-2d85a8d4-090a-46b4-bd21-abffce7ba4d6, IP: 127.0.0.1 disconnected ungracefully from Websocket Listener on port: 8000.
+2023-10-18 19:35:24,834 - Client ID: mqtt-explorer-9fe0ee90, IP: 127.0.0.1 disconnected ungracefully from TCP Listener on port: 1883.
